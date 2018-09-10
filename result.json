@@ -1,0 +1,25 @@
+{
+ "C:/Users/FLN/Desktop/NodeFileReader/test/test_folder/test_file.txt": [
+  "somepath/anotherfile123.ext",
+  "somepath/anotherfile456.ext"
+ ],
+ "C:/Users/FLN/Desktop/NodeFileReader/test/test1.txt": [
+  "somepath/anotherfile1.ext",
+  "somepath/anotherfile2.ext",
+  "somepath/anotherfile3.ext",
+  "somepath/anotherfile4.ext",
+  "somepath/anotherfile5.ext",
+  "somepath/anotherfile6.ext"
+ ],
+ "C:/Users/FLN/Desktop/NodeFileReader/test/test2.txt": [
+  "somepath/anotherfile1.ext",
+  "somepath/anotherfile2.ext",
+  "somepath/anotherfile3.ext"
+ ],
+ "C:/Users/FLN/Desktop/NodeFileReader/test/test3.txt": [
+  "somepath/anotherfile1.ext",
+  "somepath/anotherfile2.ext",
+  "somepath/anotherfile3.ext",
+  "somepath/anotherfile4.ext"
+ ]
+}

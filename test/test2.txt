@@ -1,6 +1,3 @@
 somepath/anotherfile1.ext
 somepath/anotherfile2.ext
 somepath/anotherfile3.ext
-somepath/anotherfile4.ext
-somepath/anotherfile5.ext
-somepath/anotherfile6.ext
